@@ -46,7 +46,7 @@ Woosong University, Daejeon, South Korea
 
 ## 📫 Contact
 
-- 📧 Email: tahmid@example.com  
+- 📧 Email: tahmidalkawsar@gmail.com  
 - 🌐 Portfolio Website: *Coming Soon*  
 - 🖇️ LinkedIn: [linkedin.com/in/tahmid](https://linkedin.com/in/tahmid)  
 - 📁 GitHub: [github.com/tahmid-al](https://github.com/tahmid-al)
